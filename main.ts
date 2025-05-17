@@ -14,3 +14,4 @@ serve(async (req) => {
 });
 
 console.log("🔥 Temp Mail Bot Running");
+
